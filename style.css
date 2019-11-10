@@ -35,8 +35,7 @@
 	}
 #image {
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	marging: auto;
 	width: 40%;
 	border-radius: 10px;
 	box-shadow: 0px 15px 30px  white;
