@@ -75,14 +75,11 @@
 
 }
 
-a {
-	text-decoration: none;
+#tribute-link {
 	color: white;
 }
 
-a:hover {
-	text-decoration: underline;
-}
+
 
 
 
