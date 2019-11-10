@@ -36,7 +36,7 @@
 #image {
 	display: block;
 	marging: auto;
-	width: 40%;
+	max-width: 40%;
 	border-radius: 10px;
 	box-shadow: 0px 15px 30px  white;
 
